@@ -1,1 +1,1 @@
-# sclh-project
+# Added index.html
